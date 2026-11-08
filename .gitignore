@@ -1,0 +1,55 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Python environment
+.python-version
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Environment variables
+.env
+.env.*
+
+# IDE files
+.idea/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Streamlit secrets
+.streamlit/secrets.toml

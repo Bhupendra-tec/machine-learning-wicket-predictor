@@ -1,0 +1,232 @@
+Feature,Importance
+num__balls_before,0.5210201494781372
+cat__bowling_arm_Right-arm,0.08941567486397399
+num__previous_ball_runs,0.08882153427755017
+cat__batting_style_Left-hand,0.07359048406031303
+cat__batsman_William Bosisto,0.06801218940432982
+cat__bowler_Surya Tamang,0.04409534775761023
+cat__bowler_Basir Ahamad,0.035517730729731356
+cat__batsman_Sharad Vesawkar,0.032213887099757914
+cat__batsman_Dipendra Singh Airee,0.024322130564149006
+num__runs_before,0.022990871764447297
+cat__bowler_Durgesh Gupta,0.0
+cat__bowler_Bikash Aagri,0.0
+cat__bowler_Bipin Khatri,0.0
+cat__bowler_Bipin Sharma,0.0
+cat__bowler_Brandon McMullen,0.0
+cat__bowler_Chris Sole,0.0
+cat__bowler_Daniel Douthwaite,0.0
+cat__bowler_Deepak Bohara,0.0
+cat__bowler_Dev Khanal,0.0
+cat__bowler_Dinesh Adhikari,0.0
+cat__bowler_Dinesh Kharel,0.0
+cat__bowler_Dipendra Singh Airee,0.0
+cat__bowler_Dipesh Kandel,0.0
+cat__batting_team_Chitwan Rhinos,0.0
+cat__bowler_Bhuvan Karki,0.0
+cat__bowler_Gerhard Erasmus,0.0
+cat__bowler_Gulshan Jha,0.0
+cat__bowler_Harmeet Singh,0.0
+cat__bowler_Harsh Thaker,0.0
+cat__bowler_Ishan Pandey,0.0
+cat__bowler_Ismat Alam,0.0
+cat__bowler_James Neesham,0.0
+cat__bowler_Jan Nicol Loftie-Eaton,0.0
+cat__bowler_Jitendra Mukhiya,0.0
+cat__bowler_Karan KC,0.0
+cat__bowler_Kishore Mahato,0.0
+cat__bowler_Bibek Yadav,0.0
+cat__bowler_Bhim Sharki,0.0
+cat__bowler_Kushal Malla,0.0
+cat__batsman_Zen Malik,0.0
+cat__batsman_Subash Bhandari,0.0
+cat__batsman_Sumit Maharjan,0.0
+cat__batsman_Sundeep Jora,0.0
+cat__batsman_Surya Tamang,0.0
+cat__batsman_Tilak Bhandari,0.0
+cat__batsman_Tom Moores,0.0
+cat__batsman_Trit Raj Das,0.0
+cat__batsman_Unish Singh,0.0
+cat__batsman_Unmukt Chand,0.0
+cat__batting_team_Biratnagar Kings,0.0
+cat__batsman_Zeeshan Maqsood,0.0
+cat__bowler_Aakarshit Gomel,0.0
+cat__bowler_Ben Mike,0.0
+cat__bowler_Aakash Chand,0.0
+cat__bowler_Abhishek Gautam,0.0
+cat__bowler_Abinash Bohara,0.0
+cat__bowler_Amar Routela,0.0
+cat__bowler_Anil Kharel,0.0
+cat__bowler_Aqib Ilyas,0.0
+cat__bowler_Arniko Yadav,0.0
+cat__bowler_Bas de Leede,0.0
+cat__bowler_Basanta Khatri,0.0
+cat__bowler_Basil Hameed,0.0
+num__previous_ball_wicket,0.0
+cat__bowler_Kushal Bhurtel,0.0
+cat__bowler_Lalit Rajbanshi,0.0
+cat__batsman_Sompal Kami,0.0
+cat__bowler_Zeeshan Maqsood,0.0
+cat__bowler_Sher Malla,0.0
+cat__bowler_Sohail Tanvir,0.0
+cat__bowler_Sompal Kami,0.0
+cat__bowler_Subash Bhandari,0.0
+cat__bowler_Sudip Aryal,0.0
+cat__bowler_Sundeep Jora,0.0
+num__wickets_before,0.0
+cat__bowler_Tilak Bhandari,0.0
+cat__bowler_Tul Bahadur Thapa,0.0
+cat__bowler_Unish Singh,0.0
+cat__bowler_William Bosisto,0.0
+cat__batting_style_Right-hand,0.0
+cat__bowler_Lokesh Bam,0.0
+cat__bowling_style_Fast Medium,0.0
+cat__bowling_style_Legbreak,0.0
+cat__bowling_style_Legbreak Googly,0.0
+cat__bowling_style_Medium,0.0
+cat__bowling_style_Medium Fast,0.0
+"cat__bowling_style_Medium, Legbreak",0.0
+cat__bowling_style_Offbreak,0.0
+"cat__bowling_style_Offbreak, Legbreak",0.0
+cat__bowling_style_Slow Orthodox,0.0
+cat__bowling_style_Wrist Spin,0.0
+cat__bowling_arm_Left-arm,0.0
+cat__bowler_Sharad Vesawkar,0.0
+cat__bowler_Shahab Alam,0.0
+cat__bowler_Scott Kuggeleijn,0.0
+cat__bowler_Sandeep Lamichhane,0.0
+cat__bowler_Luc Benkenstein,0.0
+cat__bowler_Matt Critchley,0.0
+cat__bowler_Michael Leask,0.0
+cat__bowler_Michael Levitt,0.0
+cat__bowler_Mohammad Mohsin,0.0
+cat__bowler_Mousom Dhakal,0.0
+cat__bowler_Nandan Yadav,0.0
+cat__bowler_Narayan Joshi,0.0
+cat__bowler_Naren Saud,0.0
+cat__bowler_Nathan Sowter,0.0
+cat__bowler_Nicholas Kirton,0.0
+cat__bowler_Pratish GC,0.0
+cat__bowler_Rajesh Pulami,0.0
+cat__bowler_Ramon Simmonds,0.0
+cat__bowler_Ranjit Kumar,0.0
+cat__bowler_Rashid Khan,0.0
+cat__bowler_Ravi Bopara,0.0
+cat__bowler_Raymon Reifer,0.0
+cat__bowler_Rijan Dhakal,0.0
+cat__bowler_Rohit Paudel,0.0
+cat__bowler_Saad Bin Zafar,0.0
+cat__bowler_Sagar Dhakal,0.0
+cat__bowler_Saif Zaib,0.0
+cat__batsman_Stephen Eskinazi,0.0
+cat__batsman_Sohail Tanvir,0.0
+cat__batting_team_Janakpur Bolts,0.0
+cat__batsman_Bipin Sharma,0.0
+cat__batsman_Babar Hayat,0.0
+cat__batsman_Bas de Leede,0.0
+cat__batsman_Basanta Khatri,0.0
+cat__batsman_Basil Hameed,0.0
+cat__batsman_Basir Ahamad,0.0
+cat__batsman_Ben Cutting,0.0
+cat__batsman_Bhim Sharki,0.0
+cat__batsman_Bibek Yadav,0.0
+cat__batsman_Binod Bhandari,0.0
+cat__batsman_Bipin Khatri,0.0
+cat__batsman_Bipin Rawal,0.0
+cat__batsman_Brandon McMullen,0.0
+cat__batsman_Arjun Gharti,0.0
+cat__batsman_Chadwick Walton,0.0
+cat__batsman_Chris Sole,0.0
+cat__batsman_Daniel Douthwaite,0.0
+cat__batsman_Deepak Bohara,0.0
+cat__batsman_Dev Khanal,0.0
+cat__batsman_Dilip Nath,0.0
+cat__batsman_Dilpreet Bajwa,0.0
+cat__batsman_Dinesh Adhikari,0.0
+cat__batsman_Dinesh Kharel,0.0
+cat__batsman_Dipak Bohara,0.0
+cat__batsman_Dipesh Kandel,0.0
+cat__batsman_Arjun Saud,0.0
+cat__batsman_Aqib Ilyas,0.0
+cat__batsman_Shubh Kansakar,0.0
+cat__bowling_team_Pokhara Avengers,0.0
+cat__batting_team_Karnali Yaks,0.0
+cat__batting_team_Kathmandu Gurkhas,0.0
+cat__batting_team_Lumbini Lions,0.0
+cat__batting_team_Pokhara Avengers,0.0
+cat__batting_team_Sudurpaschim Royals,0.0
+cat__bowling_team_Biratnagar Kings,0.0
+cat__bowling_team_Chitwan Rhinos,0.0
+cat__bowling_team_Janakpur Bolts,0.0
+cat__bowling_team_Karnali Yaks,0.0
+cat__bowling_team_Kathmandu Gurkhas,0.0
+cat__bowling_team_Lumbini Lions,0.0
+cat__bowling_team_Sudurpaschim Royals,0.0
+cat__batsman_Anil Sah,0.0
+cat__batsman_Aakarshit Gomel,0.0
+cat__batsman_Aakash Chand,0.0
+cat__batsman_Aakash Tripathi,0.0
+cat__batsman_Aarif Sheikh,0.0
+cat__batsman_Aashutosh Ghiraiya,0.0
+cat__batsman_Aasif Sheikh,0.0
+cat__batsman_Abhishek Gautam,0.0
+cat__batsman_Amar Routela,0.0
+cat__batsman_Amit Shrestha,0.0
+cat__batsman_Andries Gous,0.0
+cat__batsman_Anil Kharel,0.0
+cat__batsman_Durgesh Gupta,0.0
+cat__batsman_Gerhard Erasmus,0.0
+cat__batsman_Gulshan Jha,0.0
+cat__batsman_Rohit Paudel,0.0
+cat__batsman_Naresh Budayair,0.0
+cat__batsman_Nicholas Kirton,0.0
+cat__batsman_Pratik Shrestha,0.0
+cat__batsman_Pratish GC,0.0
+cat__batsman_Rajesh Pulami,0.0
+cat__batsman_Ramon Simmonds,0.0
+cat__batsman_Rashid Khan,0.0
+cat__batsman_Ravi Bopara,0.0
+cat__batsman_Raymon Reifer,0.0
+cat__batsman_Rijan Dhakal,0.0
+cat__batsman_Rit Gautam,0.0
+cat__batsman_Saad Bin Zafar,0.0
+cat__batsman_Harmeet Singh,0.0
+cat__batsman_Sagar Dhakal,0.0
+cat__batsman_Saif Zaib,0.0
+cat__batsman_Sandeep Lamichhane,0.0
+cat__batsman_Santosh Karki,0.0
+cat__batsman_Scott Edwards,0.0
+cat__batsman_Scott Kuggeleijn,0.0
+cat__batsman_Shahab Alam,0.0
+cat__batsman_Shankar Rana,0.0
+num__over_number,0.0
+cat__batsman_Sher Malla,0.0
+cat__batsman_Shikhar Dhawan,0.0
+cat__batsman_Naren Saud,0.0
+cat__batsman_Naren Bhatta,0.0
+cat__batsman_Narayan Joshi,0.0
+cat__batsman_Nandan Yadav,0.0
+cat__batsman_Harsh Thaker,0.0
+cat__batsman_Hassan Eisakhil,0.0
+cat__batsman_Hemant Dhami,0.0
+cat__batsman_Ishan Pandey,0.0
+cat__batsman_Ismat Alam,0.0
+cat__batsman_James Neesham,0.0
+cat__batsman_Jan Nicol Loftie-Eaton,0.0
+cat__batsman_Jaykishan Kolsawala,0.0
+cat__batsman_Jitendra Mukhiya,0.0
+cat__batsman_Karan KC,0.0
+cat__batsman_Kiran Thagunna,0.0
+cat__batsman_Kushal Bhurtel,0.0
+cat__batsman_Kushal Malla,0.0
+cat__batsman_Lahiru Milantha,0.0
+cat__batsman_Lalit Rajbanshi,0.0
+cat__batsman_Lokesh Bam,0.0
+cat__batsman_Luc Benkenstein,0.0
+cat__batsman_Martin Guptill,0.0
+cat__batsman_Matt Critchley,0.0
+cat__batsman_Mayan Yadav,0.0
+cat__batsman_Michael Leask,0.0
+cat__batsman_Michael Levitt,0.0
+cat__batsman_Mohammad Mohsin,0.0
+num__inning,0.0

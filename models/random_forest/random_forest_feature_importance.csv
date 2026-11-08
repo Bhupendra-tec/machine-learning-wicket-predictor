@@ -1,0 +1,232 @@
+Feature,Importance
+num__balls_before,0.13082016394837984
+num__runs_before,0.09667521680254974
+num__over_number,0.0879292534189048
+num__wickets_before,0.06294906226911072
+num__previous_ball_runs,0.032859831145170354
+cat__batsman_William Bosisto,0.013219992746665606
+cat__batting_style_Right-hand,0.012718135164561389
+cat__batting_team_Janakpur Bolts,0.01181263059082002
+cat__batting_style_Left-hand,0.0117449177939433
+cat__batsman_Harsh Thaker,0.011568941078429222
+cat__batsman_Lahiru Milantha,0.009926322891835749
+cat__bowler_Surya Tamang,0.00970382938492919
+cat__bowling_team_Pokhara Avengers,0.009559343391029007
+cat__batsman_Raymon Reifer,0.009199234995482178
+cat__bowling_team_Chitwan Rhinos,0.0089898421304866
+num__inning,0.008908411471105514
+num__previous_ball_wicket,0.008737317935145318
+cat__bowler_Scott Kuggeleijn,0.008583296823266662
+cat__bowling_style_Medium Fast,0.00788035043473923
+cat__bowler_Michael Leask,0.00786399823516937
+cat__bowling_style_Slow Orthodox,0.007860451985266217
+cat__bowling_team_Lumbini Lions,0.007540477224190532
+cat__bowler_Sohail Tanvir,0.007470703234193982
+cat__batting_team_Pokhara Avengers,0.0071681500182871685
+cat__batting_team_Karnali Yaks,0.007042854763109503
+cat__batting_team_Chitwan Rhinos,0.006807602139915569
+cat__bowling_arm_Right-arm,0.006404108614444838
+cat__bowling_arm_Left-arm,0.006381421378619873
+cat__batsman_Sharad Vesawkar,0.006221429631355199
+cat__bowling_team_Karnali Yaks,0.00617499315798675
+cat__batting_team_Biratnagar Kings,0.006116813168039533
+cat__bowling_team_Kathmandu Gurkhas,0.006072002954007173
+cat__bowling_style_Medium,0.0060106909589377755
+cat__bowling_team_Janakpur Bolts,0.005953654410184081
+cat__bowling_style_Offbreak,0.005881469655003809
+cat__batting_team_Sudurpaschim Royals,0.005773050963124372
+cat__bowling_style_Fast Medium,0.005526414295164842
+cat__batting_team_Kathmandu Gurkhas,0.005503099323000022
+cat__bowler_Abinash Bohara,0.0054817917550832795
+cat__bowling_team_Biratnagar Kings,0.005406820737419484
+cat__batting_team_Lumbini Lions,0.005323482304724305
+cat__bowling_team_Sudurpaschim Royals,0.005046368138776576
+cat__batsman_Saad Bin Zafar,0.004755598214496937
+cat__batsman_Ishan Pandey,0.004599991102082436
+cat__bowler_Pratish GC,0.004546280763031572
+cat__bowler_Sagar Dhakal,0.004544890663832901
+cat__batsman_Rohit Paudel,0.004339089846400829
+cat__batsman_Andries Gous,0.0043260330183769605
+cat__batsman_Dipendra Singh Airee,0.004226412855660431
+cat__batsman_Tom Moores,0.004176296794832566
+cat__bowling_style_Legbreak Googly,0.004132349972943157
+cat__bowler_Basir Ahamad,0.0039378108758156
+cat__batsman_Ravi Bopara,0.003935131594419321
+cat__batsman_Bibek Yadav,0.00392417381374036
+cat__bowler_Ramon Simmonds,0.003764145419359423
+cat__batsman_Saif Zaib,0.003702277461907572
+cat__bowler_Karan KC,0.003701805155722134
+cat__batsman_Michael Levitt,0.003662736735918832
+cat__bowler_Abhishek Gautam,0.0036618695201378858
+cat__batsman_Shikhar Dhawan,0.003638020067470536
+cat__batsman_Arjun Gharti,0.003586520151194429
+cat__bowler_Naren Saud,0.0035386534315754005
+cat__bowler_Kishore Mahato,0.0035305026856950377
+cat__batsman_Michael Leask,0.003530148468109525
+cat__bowler_Rashid Khan,0.0034763231063531454
+cat__bowler_Rijan Dhakal,0.0034681430634613463
+cat__bowling_style_Legbreak,0.003461008053981689
+cat__batsman_Karan KC,0.003392018521639588
+cat__batsman_Dinesh Kharel,0.003371650800008983
+cat__bowler_Lalit Rajbanshi,0.0033067240171075858
+cat__batsman_Basir Ahamad,0.0032486419040514162
+cat__batsman_Rajesh Pulami,0.003180028044601192
+cat__bowler_Bipin Khatri,0.0031480194612641785
+cat__bowler_William Bosisto,0.0031316493370839487
+cat__bowler_Nandan Yadav,0.0031159516484676993
+cat__bowler_Harsh Thaker,0.003058109441635471
+cat__bowler_Sompal Kami,0.003018798176423921
+cat__batsman_Chadwick Walton,0.003013693128812923
+cat__batsman_Santosh Karki,0.002942681917628351
+cat__bowler_Sandeep Lamichhane,0.0029097812470942216
+cat__batsman_Daniel Douthwaite,0.0027521536312207742
+cat__batsman_Sundeep Jora,0.0026917183800542017
+cat__bowler_Ranjit Kumar,0.0026523819411590995
+cat__bowler_Raymon Reifer,0.0026488001165702207
+cat__batsman_Sandeep Lamichhane,0.0025792299685833127
+cat__batsman_Sumit Maharjan,0.0025527188513841063
+cat__batsman_Shankar Rana,0.0025073623462430637
+cat__bowler_Zeeshan Maqsood,0.002505205715493382
+cat__bowler_Matt Critchley,0.00249360975830401
+cat__batsman_Anil Sah,0.002476265823898306
+cat__bowler_James Neesham,0.0024655436467320036
+cat__bowler_Saad Bin Zafar,0.002458005863146884
+cat__batsman_Dilip Nath,0.0024149874824331815
+cat__batsman_Shubh Kansakar,0.002413125183959544
+cat__batsman_Martin Guptill,0.0023704702015524184
+cat__batsman_Arjun Saud,0.002294246701194859
+cat__batsman_Chris Sole,0.0022407603934687026
+cat__bowler_Shahab Alam,0.0022044588588422177
+cat__batsman_Lokesh Bam,0.0021766375220321184
+cat__bowler_Chris Sole,0.0021715055791182596
+cat__bowler_Bipin Sharma,0.0021709926188042384
+cat__bowler_Dipesh Kandel,0.002168564547427038
+cat__batsman_Aarif Sheikh,0.002151770054595348
+cat__bowler_Mohammad Mohsin,0.002116039872537131
+cat__bowler_Saif Zaib,0.0021008866156482253
+cat__batsman_Ismat Alam,0.0020306833275211935
+cat__bowler_Durgesh Gupta,0.002015053573406583
+cat__bowler_Bibek Yadav,0.0020016218207437536
+cat__bowler_Kushal Bhurtel,0.0019909839486051866
+cat__bowler_Dipendra Singh Airee,0.0019902410713149576
+cat__bowler_Rohit Paudel,0.0019501732874721807
+cat__batsman_Kushal Bhurtel,0.0019374574998299624
+cat__batsman_Nandan Yadav,0.0018505516438537838
+cat__batsman_Binod Bhandari,0.0018441353767588138
+cat__batsman_Scott Kuggeleijn,0.0018266219589381397
+cat__batsman_Rashid Khan,0.0017265531830021985
+cat__bowler_Harmeet Singh,0.001702514299169033
+cat__bowler_Kushal Malla,0.0016330244697499614
+cat__batsman_Pratik Shrestha,0.0016327245519722458
+cat__bowler_Gerhard Erasmus,0.0016175396922312973
+cat__batsman_Kushal Malla,0.0015976717106007418
+cat__batsman_Aasif Sheikh,0.0015845298434523135
+cat__batsman_Amar Routela,0.0015798999677473092
+cat__bowler_Bikash Aagri,0.0015772629654239967
+cat__batsman_Pratish GC,0.0015716909132739473
+cat__bowler_Ismat Alam,0.001557308839098532
+cat__batsman_Hassan Eisakhil,0.001554702003049183
+cat__batsman_James Neesham,0.001544210332304056
+"cat__bowling_style_Medium, Legbreak",0.0015347421576651708
+cat__bowler_Ravi Bopara,0.0014869951578872541
+cat__batsman_Gerhard Erasmus,0.0014750411665063223
+cat__bowler_Luc Benkenstein,0.0014739355633458272
+cat__bowler_Aakash Chand,0.0014555382076809635
+cat__batsman_Babar Hayat,0.001448484897446679
+cat__batsman_Stephen Eskinazi,0.0014482901024691856
+cat__bowler_Sher Malla,0.0014424075262483929
+cat__bowler_Anil Kharel,0.001406823034433557
+cat__bowler_Brandon McMullen,0.0013901902497389684
+cat__batsman_Harmeet Singh,0.001371086233794705
+cat__batsman_Nicholas Kirton,0.0013516758144687193
+cat__batsman_Gulshan Jha,0.0013513265926089666
+cat__batsman_Unmukt Chand,0.001324141296419337
+cat__batsman_Brandon McMullen,0.0013113040891612486
+cat__batsman_Anil Kharel,0.001300618737031035
+cat__batsman_Narayan Joshi,0.0012928086733827251
+cat__bowler_Jan Nicol Loftie-Eaton,0.0012880239668315355
+cat__bowler_Unish Singh,0.0012649140781135536
+cat__bowler_Amar Routela,0.0012574561203386003
+cat__batsman_Jaykishan Kolsawala,0.0012440158550666885
+cat__batsman_Zeeshan Maqsood,0.0012290475079623881
+cat__batsman_Dev Khanal,0.0012250485992689132
+cat__batsman_Bipin Khatri,0.001204885915932317
+cat__batsman_Aashutosh Ghiraiya,0.0011823544674630885
+cat__batsman_Dipak Bohara,0.0011033275970840678
+cat__batsman_Shahab Alam,0.0010767104589722758
+cat__bowler_Bhim Sharki,0.001066208326035928
+cat__bowler_Aqib Ilyas,0.0010155839666027228
+cat__batsman_Scott Edwards,0.0010011706530358535
+cat__batsman_Luc Benkenstein,0.0009877465623330346
+cat__batsman_Matt Critchley,0.0009266119888589506
+cat__batsman_Bhim Sharki,0.0009204789881562268
+cat__bowler_Daniel Douthwaite,0.0009081663291551668
+cat__batsman_Ramon Simmonds,0.0008517165464033002
+cat__bowler_Bhuvan Karki,0.0008463019839847215
+cat__batsman_Deepak Bohara,0.000836986006328372
+cat__batsman_Kiran Thagunna,0.0008076249962831306
+cat__bowler_Tilak Bhandari,0.0007975304854857334
+cat__batsman_Sompal Kami,0.0007898439506701903
+cat__bowler_Bas de Leede,0.0007873538698855605
+"cat__bowling_style_Offbreak, Legbreak",0.0007381234586162022
+cat__batsman_Aqib Ilyas,0.0007103187027979277
+cat__batsman_Surya Tamang,0.0006955673899593401
+cat__batsman_Mohammad Mohsin,0.000681441041306351
+cat__bowler_Nathan Sowter,0.0006810139894761546
+cat__batsman_Naresh Budayair,0.0006275236497032232
+cat__batsman_Bipin Rawal,0.0006078481415577849
+cat__batsman_Zen Malik,0.0005932624230230877
+cat__batsman_Naren Bhatta,0.0005764885738701015
+cat__bowler_Subash Bhandari,0.0005522581311177867
+cat__batsman_Ben Cutting,0.0005496700131414706
+cat__bowler_Arniko Yadav,0.0005466641724943168
+cat__bowler_Sharad Vesawkar,0.0004395497190479437
+cat__bowler_Nicholas Kirton,0.00039350845460878685
+cat__batsman_Naren Saud,0.00036336526210391484
+cat__bowler_Sundeep Jora,0.0003551252199295031
+cat__bowler_Ben Mike,0.0003409504263588507
+cat__bowler_Ishan Pandey,0.00033629574743764565
+cat__bowler_Gulshan Jha,0.0003313868138535177
+cat__bowler_Mousom Dhakal,0.00032520881470392597
+cat__bowler_Basil Hameed,0.0003182912755246388
+cat__bowler_Michael Levitt,0.0003167482792549645
+cat__batsman_Sohail Tanvir,0.00030295808034172663
+cat__batsman_Dinesh Adhikari,0.0002894747909467211
+cat__bowler_Rajesh Pulami,0.0002668494558058521
+cat__batsman_Dilpreet Bajwa,0.00020366246629503065
+cat__bowler_Sudip Aryal,0.00018694025548983745
+cat__bowler_Deepak Bohara,0.0001706979781098759
+cat__batsman_Dipesh Kandel,0.00016823998587563163
+cat__batsman_Aakarshit Gomel,0.0001646665754520535
+cat__bowler_Dinesh Kharel,0.0001302674026854402
+cat__bowler_Lokesh Bam,0.0001238288560278669
+cat__batsman_Tilak Bhandari,0.00011743776139224912
+cat__batsman_Aakash Tripathi,8.340406708498685e-05
+cat__bowler_Jitendra Mukhiya,7.872354423680947e-05
+cat__batsman_Hemant Dhami,7.284374411079724e-05
+cat__bowler_Dev Khanal,4.824760065009048e-05
+cat__batsman_Subash Bhandari,4.618695606875543e-05
+cat__bowler_Tul Bahadur Thapa,3.853150350371958e-05
+cat__bowler_Narayan Joshi,1.284440999306494e-05
+cat__bowler_Basanta Khatri,1.2113550767475627e-05
+cat__bowling_style_Wrist Spin,4.506959130761973e-07
+cat__batsman_Bipin Sharma,0.0
+cat__batsman_Bas de Leede,0.0
+cat__batsman_Amit Shrestha,0.0
+cat__batsman_Basil Hameed,0.0
+cat__batsman_Abhishek Gautam,0.0
+cat__batsman_Basanta Khatri,0.0
+cat__batsman_Mayan Yadav,0.0
+cat__batsman_Durgesh Gupta,0.0
+cat__batsman_Jan Nicol Loftie-Eaton,0.0
+cat__batsman_Jitendra Mukhiya,0.0
+cat__batsman_Lalit Rajbanshi,0.0
+cat__bowler_Dinesh Adhikari,0.0
+cat__batsman_Aakash Chand,0.0
+cat__batsman_Rijan Dhakal,0.0
+cat__batsman_Rit Gautam,0.0
+cat__batsman_Sagar Dhakal,0.0
+cat__batsman_Sher Malla,0.0
+cat__batsman_Trit Raj Das,0.0
+cat__bowler_Aakarshit Gomel,0.0
+cat__batsman_Unish Singh,0.0
