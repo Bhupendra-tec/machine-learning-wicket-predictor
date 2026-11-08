@@ -62,10 +62,11 @@ the five evaluated models in the current experiment.
 | Logistic Regression | 57.71% | 6.12% | 39.81% | 10.61% | 49.86% | 6.78% |
 | SVM | 57.16% | 6.04% | 39.81% | 10.49% | 49.67% | 7.06% |
 | Decision Tree | 77.78% | 10.12% | 32.04% | 15.38% | 55.97% | 8.34% |
+| Random Forest | 80.78% | 10.19% | 26.21% | 14.67% | 53.21% | 7.90% |
 | KNN | 93.70% | 0% | 0% | 0% | 55.10% | 7.39% |
 Note: KNN achieved 93.70% accuracy, but this result is influenced by the class imbalance in our dataset. The model predicted every delivery as No Wicket and failed to identify actual wickets. Therefore, accuracy alone does not represent its predictive performance. We evaluated additional metrics, including Precision, Recall, F1-score, and PR-AUC, to make a more meaningful model comparison.
 
-| Random Forest | 80.78% | 10.19% | 26.21% | 14.67% | 53.21% | 7.90% |
+
 
 *Selected Model:* Decision Tree
 
@@ -77,40 +78,3 @@ model performance.
 
 PR-AUC, precision, recall, and F1-score are also considered.
 
----
-
-## 📁 Project Structure
-
-Data Science Final_project/
-│
-├── app/
-│   └── main.py
-│
-├── data/
-│   └── NPL_final.csv
-│
-├── models/
-│   ├── logistic/
-│   │   └── logistic_regression.py
-│   │
-│   ├── svm/
-│   │   └── svm_model.py
-│   │
-│   ├── decision_tree/
-│   │   ├── decision_tree.py
-│   │   └── decision_tree_wicket_model.pkl
-│   │
-│   ├── knn/
-│   │   └── knn_model.py
-│   │
-│   ├── random_forest/
-│   │   └── random_forest.py
-│   │
-│   └── comparison/
-│       ├── model_comparison.csv
-│       ├── metric_comparison.png
-│       └── pr_auc_comparison.png
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
